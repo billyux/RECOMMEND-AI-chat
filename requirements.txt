@@ -1,0 +1,7 @@
+streamlit
+langchain
+huggingface_hub
+faiss-cpu
+beautifulsoup4
+requests
+pypdf
